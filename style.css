@@ -1,0 +1,32 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+.note
+{
+  font-size: 15px;
+  color: black;
+}
+body
+{
+  background-size: cover;   
+}
+ .play_song, .stop_song{
+    font-size: 23px;
+    margin: 15px;
+    border: 5px solid cyan;
+ }
+ #logo{
+   width: 50px;
+   height: 50px;
+   border: 5px solid pink;
+ }
+    canvas 
+  {
+    margin-top: 100px;
+    border:5px solid rebeccapurple;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px #73cfd8;
+  }
